@@ -1,0 +1,11 @@
+<jsp:useBean id="p" class="JavaBean"></jsp:useBean>
+<jsp:setProperty property="*" name="p"/>
+<jsp:getProperty property="name" name="p"/>
+<jsp:getProperty property="price" name="p"/>
+<jsp:getProperty property="oldprice" name="p"/>
+<jsp:getProperty property="cat" name="p"/>
+<jsp:getProperty property="cmp" name="p"/>
+<jsp:getProperty property="img1" name="p"/>
+<jsp:getProperty property="img2" name="p"/>
+<jsp:getProperty property="img3" name="p"/>
+<jsp:getProperty property="img4" name="p"/>
